@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<graphe>
+    <arete>E.Hazard, Batshuayi</arete>
+    <arete>E.Hazard, De Bruyne</arete>
+    <arete>E.Hazard, Carrasco</arete>
+    <arete>E.Hazard, Witsel</arete>
+    <arete>E.Hazard, Tielemans</arete>
+    <arete>E.Hazard, Vertonghen</arete>
+    <arete>E.Hazard, Alderweireld</arete>
+    <arete>E.Hazard, Dendoncker</arete>
+    <arete>E.Hazard, Courtois</arete>
+    <arete>Batshuayi, De Bruyne</arete>
+    <arete>De Bruyne, Carrasco</arete>
+    <arete>Carrasco, Witsel</arete>
+    <arete>Witsel, Tielemans</arete>
+    <arete>Tielemans, Castagne</arete>
+    <arete>Castagne, Vertonghen</arete>
+    <arete>Vertonghen, Alderweireld</arete>
+    <arete>Alderweireld, Dendoncker</arete>
+    <arete>Dendoncker, Courtois</arete>
+</graphe>

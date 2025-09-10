@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<graphe>
+
+    <!-- Sommets -->
+    <sommet>A</sommet>
+    <sommet>B</sommet>
+    <sommet>C</sommet>
+    <sommet>D</sommet>
+    <sommet>E</sommet>
+    <sommet>F</sommet>
+    <sommet>G</sommet>
+    <sommet>H</sommet>
+    <sommet>I</sommet>
+    <sommet>J</sommet>
+    <sommet>K</sommet>
+    <sommet>L</sommet>
+    <sommet>M</sommet>
+    <sommet>N</sommet>
+    <sommet>O</sommet>
+    <sommet>P</sommet>
+    <sommet>Q</sommet>
+    <sommet>R</sommet>
+    <sommet>S</sommet>
+    <sommet>T</sommet>
+    <sommet>U</sommet>
+    <sommet>V</sommet>
+    <sommet>W</sommet>
+    <sommet>X</sommet>
+    <sommet>Y</sommet>
+    <sommet>Z</sommet>
+    <sommet>AA</sommet>
+    <sommet>AB</sommet>
+    <sommet>AC</sommet>
+    <sommet>AD</sommet>
+    <sommet>AE</sommet>
+    <sommet>AF</sommet>
+    <sommet>AG</sommet>
+    <sommet>AH</sommet>
+    <sommet>AI</sommet>
+    <sommet>AJ</sommet>
+    <sommet>AK</sommet>
+    <sommet>AL</sommet>
+    <sommet>AM</sommet>
+    <sommet>AN</sommet>
+    <sommet>AO</sommet>
+    <sommet>AP</sommet>
+    <sommet>AQ</sommet>
+    <sommet>AR</sommet>
+    <sommet>AS</sommet>
+    <sommet>AT</sommet>
+    <sommet>AU</sommet>
+    <sommet>AV</sommet>
+    <sommet>AW</sommet>
+    <sommet>AX</sommet>
+    <sommet>AY</sommet>
+    <sommet>AZ</sommet>
+    <sommet>BA</sommet>
+    <sommet>BB</sommet>
+    <sommet>BC</sommet>
+    <sommet>BD</sommet>
+    <sommet>BE</sommet>
+    <sommet>BF</sommet>
+    <sommet>BG</sommet>
+    <sommet>BH</sommet>
+    <sommet>BI</sommet>
+    <sommet>BJ</sommet>
+
+    <!-- Arêtes -->
+    <arete>A, B</arete>
+    <arete>B, C</arete>
+    <arete>C, D</arete>
+    <arete>D, E</arete>
+    <arete>E, F</arete>
+    <arete>F, G</arete>
+    <arete>G, H</arete>
+    <arete>H, I</arete>
+    <arete>I, J</arete>
+    <arete>J, K</arete>
+    <arete>K, L</arete>
+    <arete>L, M</arete>
+    <arete>M, N</arete>
+    <arete>N, O</arete>
+    <arete>O, P</arete>
+    <arete>P, Q</arete>
+    <arete>Q, R</arete>
+    <arete>R, S</arete>
+    <arete>S, T</arete>
+    <arete>T, U</arete>
+    <arete>U, V</arete>
+    <arete>V, W</arete>
+    <arete>W, X</arete>
+    <arete>X, Y</arete>
+    <arete>Y, Z</arete>
+    <arete>Z, AA</arete>
+    <arete>AA, AB</arete>
+    <arete>AB, AC</arete>
+    <arete>AC, AD</arete>
+    <arete>AD, AE</arete>
+    <arete>AE, AF</arete>
+    <arete>AF, AG</arete>
+    <arete>AG, AH</arete>
+    <arete>AH, AI</arete>
+    <arete>AI, AJ</arete>
+    <arete>AJ, AK</arete>
+    <arete>AK, AL</arete>
+    <arete>AL, AM</arete>
+    <arete>AM, AN</arete>
+    <arete>AN, AO</arete>
+    <arete>AO, AP</arete>
+    <arete>AP, AQ</arete>
+    <arete>AQ, AR</arete>
+    <arete>AR, AS</arete>
+    <arete>AS, AT</arete>
+    <arete>AT, AU</arete>
+    <arete>AU, AV</arete>
+    <arete>AV, AW</arete>
+    <arete>AW, AX</arete>
+    <arete>AX, AY</arete>
+    <arete>AY, AZ</arete>
+    <arete>AZ, BA</arete>
+    <arete>BA, BB</arete>
+    <arete>BB, BC</arete>
+    <arete>BC, BD</arete>
+    <arete>BD, BE</arete>
+    <arete>BE, BF</arete>
+    <arete>BF, BG</arete>
+    <arete>BG, BH</arete>
+    <arete>BH, BI</arete>
+    <arete>BI, BJ</arete>
+    <arete>E.Hazard, Batshuayi</arete>
+    <arete>Batshuayi, De Bruyne</arete>
+    <arete>De Bruyne, Carrasco</arete>
+    <arete>Carrasco, Witsel</arete>
+    <arete>Witsel, Tielemans</arete>
+    <arete>Tielemans, Castagne</arete>
+    <arete>Castagne, Vertonghen</arete>
+    <arete>Vertonghen, Alderweireld</arete>
+    <arete>Alderweireld, Dendoncker</arete>
+    <arete>Dendoncker, Courtois</arete>
+    <sommet>Kenzo</sommet>
+    <sommet>Amine</sommet>
+    <sommet>Zhao</sommet>
+</graphe>

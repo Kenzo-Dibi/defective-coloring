@@ -1,0 +1,8 @@
+c -> connexe
+nc -> non connexe
+
+s -> simple
+m -> multi-graphe
+
+o -> orienté
+no -> non orienté

@@ -1,0 +1,6 @@
+version xml
+balise ouverture graphe
+
+les divers arêtes et sommets
+
+balise fermeture graphe

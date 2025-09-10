@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<graphe>
+    <arete>Kenzo, </arete>
+    <arete>Batshuayi, De Bruyne</arete>
+    <arete>De Bruyne, Carrasco</arete>
+    <arete>Carrasco, Witsel</arete>
+    <arete>Witsel, Tielemans</arete>
+    <arete>Tielemans, Castagne</arete>
+    <arete>Castagne, Vertonghen</arete>
+    <arete>Vertonghen, Alderweireld</arete>
+    <arete>Alderweireld, Dendoncker</arete>
+    <arete>Dendoncker, Courtois</arete>
+    <sommet>Kenzo</sommet>
+    <sommet>Amine</sommet>
+    <sommet>Zhao</sommet>
+</graphe>
